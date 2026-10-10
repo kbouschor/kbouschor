@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am an automation and mechatronics student focuse
 
 ## 🛠️ Focus Areas & Technical Skills
 
-* **Industrial Controls & PLCs:** Allen-Bradley / Rockwell (Studio 5000), Siemens, and AutomationDirect platforms, Ladder Logic, FactoryTalk View & Siemens HMI design, E-stop safety circuits, and 24VDC power distribution.
+* **Industrial Controls & PLCs:** Allen-Bradley / Rockwell (Studio 5000), Siemens, and AutomationDirect platforms, Ladder Logic, FactoryTalk View & Siemens HMI design.
 * **Embedded Systems & Electronics:** Microcontrollers (Arduino), OpenPLC, breadboard prototyping, and precision soldering.
 * **CAD & Mechanical Design:** Autodesk Fusion (3D modeling, enclosures, custom assemblies), 3D printing, and rapid prototyping.
 * **Software & Utilities:** Linux terminal utilities and Git version control.

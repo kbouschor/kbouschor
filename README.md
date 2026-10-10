@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Keith 👋
 
-<!--
-**kbouschor/kbouschor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am an automation and mechatronics student focused on industrial controls, PLC programming, microcontrollers, and precision hardware design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Focus Areas & Technical Skills
+
+* **Industrial Controls & PLCs:** Allen-Bradley / Rockwell (Studio 5000), Siemens, and AutomationDirect platforms, Ladder Logic, FactoryTalk View & Siemens HMI design, E-stop safety circuits, and 24VDC power distribution.
+* **Embedded Systems & Electronics:** Microcontrollers (Arduino), OpenPLC, breadboard prototyping, and precision soldering.
+* **CAD & Mechanical Design:** Autodesk Fusion (3D modeling, enclosures, custom assemblies), 3D printing, and rapid prototyping.
+* **Software & Utilities:** Linux terminal utilities and Git version control.
+
+---
+
+## 🔬 What I'm Currently Working On
+
+- ⚡ **Industrial Lab Training:** Hands-on training using fully functional industrial trainers featuring Allen-Bradley, Siemens, and AutomationDirect PLC systems, matching vendor software, and associated HMI screens, complete with safety E-stop relays and DC power distribution.
+- 📐 **Portable OpenPLC Handheld Trainer:** Designing and building a custom portable trainer powered by OpenPLC and an Arduino, complete with a custom 3D-printed enclosure modeled in Autodesk Fusion for practicing ladder logic anywhere.
+
+---
+
+## 📬 Connect With Me
+
+- **GitHub:** [github.com/kbouschor](https://github.com/kbouschor)

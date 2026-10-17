@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I am an automation and mechatronics student focuse
 
 ## 🔬 What I'm Currently Working On
 
-- ⚡ **Industrial Lab Training:** Hands-on training using fully functional industrial trainers featuring Allen-Bradley, Siemens, and AutomationDirect PLC systems, matching vendor software, and associated HMI screens, complete with safety E-stop relays and DC power distribution.
+- ⚡ **Industrial Lab Training:** Hands-on training using fully functional industrial trainers featuring Allen-Bradley, Siemens, and AutomationDirect PLC systems, matching vendor software, and associated HMI screens.
 - 📐 **Portable OpenPLC Handheld Trainer:** Designing and building a custom portable trainer powered by OpenPLC and an Arduino, complete with a custom 3D-printed enclosure modeled in Autodesk Fusion for practicing ladder logic anywhere.
 
 ---

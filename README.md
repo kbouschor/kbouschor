@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I am an automation and mechatronics student focuse
 
 Here are a few of my recent build portfolios showcasing my work from prototype to finished enclosure:
 
-- **[555 Club Display Sign](https://github.com/kbouschor/555-club-sign)** — A custom-engineered electronic display sign utilizing a 555 timer circuit, custom acrylic/3D-printed enclosure, and clean desktop wiring.
+- **[555 Club Display Sign](https://github.com/kbouschor/555-club-sign)** — A custom-engineered electronic display sign utilizing a 555 timer circuit, custom 3D-printed enclosure, and clean desktop wiring.
 - **[PC PSU to Benchtop Power Supply](https://github.com/kbouschor/benchtop-power-supply)** — Repurposed an ATX computer power supply into a switch-controlled, multi-voltage benchtop lab power source.
 - **[555 Portable Signal Generator](https://github.com/kbouschor/555-signal-generator)** — A handheld square-wave signal generator built with soldered perfboard, custom CAD enclosures, and rigorous functional testing.
 - **[OpenPLC Arduino Handheld Trainer](https://github.com/kbouschor/openplc-arduino-trainer)** *(In Progress)* — Building a portable industrial automation trainer running OpenPLC ladder logic on an Arduino Uno R3 with a custom perfboard shield and enclosure.

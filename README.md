@@ -33,4 +33,4 @@ Here are a few of my recent build portfolios showcasing my work from prototype t
 
 ## 📬 Connect With Me
 
-- **LinkedIn:** [Keith Bouschor]([https://www.linkedin.com/in/kbouschor])
+- **LinkedIn:** [Keith Bouschor](https://www.linkedin.com/in/kbouschor)
